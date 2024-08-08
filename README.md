@@ -33,8 +33,9 @@ swap 是 可选 的
 
 # 使用教程
 
-clash.la
-nodeseek.........
+[clash.la](clash.la)
+
+[nodeseek.com](https://www.nodeseek.com/post-143967-1)
 
 # 相关命令
 ```
