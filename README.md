@@ -33,7 +33,7 @@ swap 是 可选 的
 
 # 使用教程
 
-[clash.la](clash.la)
+[clash.la]([clash.la](https://www.clash.la/archives/860/))
 
 [nodeseek.com](https://www.nodeseek.com/post-143967-1)
 
